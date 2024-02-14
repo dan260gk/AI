@@ -31,11 +31,11 @@ Ejercicio: utiliza PyTorch y el algoritmo de descenso de gradiente para encontra
 6. **Graficación de la función y el mínimo:**
    Finalmente, graficamos la función \( f(x) \) en un rango de valores de \( x \) de -4 a 2 utilizando Matplotlib. También graficamos el punto mínimo de la función en el gráfico, que es el resultado de la optimización. El punto mínimo se muestra en rojo en el gráfico.
 
-En el código proporcionado, estamos optimizando la función de costo \( f(x) = x^2 + 3x + 2 \) utilizando el algoritmo de descenso de gradiente. La optimización de esta función nos proporciona el valor óptimo de \( x \) que minimiza la función y el valor mínimo de la función.
+con esto, estamos optimizando la función de costo \( f(x) = x^2 + 3x + 2 \) utilizando el algoritmo de descenso de gradiente. La optimización de esta función nos proporciona el valor óptimo de \( x \) que minimiza la función y el valor mínimo de la función.
 
 Al minimizar esta función de costo, mejoramos nuestra comprensión de cómo cambian los valores de \( x \) afectan a la función \( f(x) \), lo que nos permite hacer predicciones más precisas y tomar decisiones más informadas en contextos donde esta función se aplique, como en la optimización de modelos de aprendizaje automático.
 
 ### Fuentes
-[Fuente de cosulta](https://www.deeplearningbook.org/contents/numerical.html)
+["Deep Learning" - Capitulo 4: "Numerical computation"  ](https://www.deeplearningbook.org/contents/numerical.html)
 
 
