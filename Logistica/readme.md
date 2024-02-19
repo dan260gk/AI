@@ -39,4 +39,4 @@ Donde:
 
 
 **Ejemplo:**
-En el código proporcionado, se ejemplifica cómo se calcula la probabilidad de que un video obtenga más de 5 "likes" utilizando los coeficientes del modelo y los valores de características específicos. Esto se realiza mediante la fórmula de probabilidad individual.
+En el código proporcionado [LogLikes.py], se ejemplifica cómo se calcula la probabilidad de que un video de TikTok obtenga más de 5 "likes" basado en los datos de dos meses de una cuenta, utilizando los coeficientes del modelo y los valores de características específicos. Esto se realiza mediante la fórmula de probabilidad individual.
